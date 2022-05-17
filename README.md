@@ -5,7 +5,7 @@
 
 ### You can find me on:
 
-[<img align="left" alt="MrGcGamer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="MrGcGamer | Twitter" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/twitter.svg" />][twitter]
 
 <br />
 
@@ -18,7 +18,9 @@ Obj-C
 
 
 ---
-
-<img align="left" alt="MrGcGamer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrGcGamer&show_icons=true&hide_border=true&theme=shades-of-purple" />
+![](https://raw.githubusercontent.com/MrGcGamer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MrGcGamer/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/MrGcGamer/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MrGcGamer/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 [twitter]: https://twitter.com/MrGcGamer
