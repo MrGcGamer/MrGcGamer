@@ -1,20 +1,31 @@
 <h2 align="center">I'm MrGcGamer - aka that Gc guy 👋</h2>
 
+```py
+➜ neofetch
+MrGcGamer@Home                                                   'c.          
+-----------------                                             ,xNMM.          
+OS: macOS 12.6.1, macOS 13.2.1                              .OMMMMo           
+Host: Germany                                               OMMM0,            
+Kernel: male                                      .;loddo:' loolloddol;.      
+Uptime: 19 Years                                cKMMMMMMMMMMNWMMMMMMMMMM0:    
+Packages: Obj-C, JS, C, Java                  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    
+Shell: German, English                        XMMMMMMMMMMMMMMMMMMMMMMMX.      
+Resolution: 2560x1440, 1920x1080             ;MMMMMMMMMMMMMMMMMMMMMMMM:       
+DE: Aqua                                     :MMMMMMMMMMMMMMMMMMMMMMMM:       
+WM: Quartz Compositor                        .MMMMMMMMMMMMMMMMMMMMMMMMX.      
+WM Theme: Purple (Dark)                       kMMMMMMMMMMMMMMMMMMMMMMMMWd.    
+Terminal: /dev/ttys000                        .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   
+CPU: Neocortex-900 (12) @ 3.40GHz              .XMMMMMMMMMMMMMMMMMMMMMMMMK.   
+GPU: Occipital lobe V2                           kMMMMMMMMMMMMMMMMMMMMMMd     
+Memory: ~4 Years                                  ;KMMMMMMMWXXWMMMMMMMk.      
+Load: CS-Student 60%, Other 36%                     .cooc,.    .,coo:.        
+```
+
 ---
-### 📚 About me:
-- 19yo
-- Germany
-- CS-Student
 
 ### 🗺 Where to find me:
 - [Twitter](https://twitter.com/MrGcGamer)
 - [Reddit](https://www.reddit.com/user/MrGcGamer)
-
-### 🖥 Languages with a reasonable level of profiency:
-- Objective-C
-- JavaScript
-- C
-- Java
 
 ---
 
