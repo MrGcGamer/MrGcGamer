@@ -7,7 +7,7 @@ MrGcGamer@Home                                                   'c.
 OS: macOS 12.6.1, macOS 13.2.1                              .OMMMMo           
 Host: Germany                                               OMMM0,            
 Kernel: male                                      .;loddo:' loolloddol;.      
-Uptime: 19 Years                                cKMMMMMMMMMMNWMMMMMMMMMM0:    
+Uptime: 20 Years                                cKMMMMMMMMMMNWMMMMMMMMMM0:    
 Packages: Obj-C, JS, C, Java                  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    
 Shell: German, English                        XMMMMMMMMMMMMMMMMMMMMMMMX.      
 Resolution: 2560x1440, 1920x1080             ;MMMMMMMMMMMMMMMMMMMMMMMM:       
