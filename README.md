@@ -4,11 +4,11 @@
 ➜ neofetch
 MrGcGamer@Home                                                   'c.          
 -----------------                                             ,xNMM.          
-OS: macOS 12.6.1, macOS 13.2.1                              .OMMMMo           
+OS: macOS 14.2.1, macOS 13.2.1                              .OMMMMo           
 Host: Germany                                               OMMM0,            
 Kernel: male                                      .;loddo:' loolloddol;.      
 Uptime: 20 Years                                cKMMMMMMMMMMNWMMMMMMMMMM0:    
-Packages: Obj-C, JS, C, Java                  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    
+Packages: Obj-C, JS, C, Rust, Java            .KMMMMMMMMMMMMMMMMMMMMMMMWd.    
 Shell: German, English                        XMMMMMMMMMMMMMMMMMMMMMMMX.      
 Resolution: 2560x1440, 1920x1080             ;MMMMMMMMMMMMMMMMMMMMMMMM:       
 DE: Aqua                                     :MMMMMMMMMMMMMMMMMMMMMMMM:       
@@ -23,7 +23,7 @@ Load: CS-Student 60%, Other 36%                     .cooc,.    .,coo:.
 
 ---
 
-### 🗺 Where to find me:
+### Where to find me:
 - [Twitter](https://twitter.com/MrGcGamer)
 - [Reddit](https://www.reddit.com/user/MrGcGamer)
 
