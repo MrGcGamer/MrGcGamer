@@ -29,7 +29,7 @@ Load: CS-Student 60%, Other 36%                     .cooc,.    .,coo:.
 
 ---
 
-![](https://raw.githubusercontent.com/MrGcGamer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MrGcGamer/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/MrGcGamer/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MrGcGamer/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/MrGcGamer/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/MrGcGamer/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/MrGcGamer/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/MrGcGamer/github-stats/blob/generated/languages.svg#gh-light-mode-only)
